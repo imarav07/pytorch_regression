@@ -43,4 +43,4 @@ The project is structured to be both an executable example and a detailed educat
 
 **Aravind Reddy Rangapuran**  
 📧 Email: [aravind.rangapuram@gmail.com](mailto:aravind.rangapuram@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/aravind-reddy-rangapuram](https://www.linkedin.com/in/aravind-reddy-rangapuram/)
+🔗 LinkedIn: [linkedin.com/in/aravind-rangapuram](https://www.linkedin.com/in/aravind-rangapuram/)
